@@ -1,0 +1,90 @@
+<NotepadPlus>
+    <Project name="plovlover.uz Hugo">
+        <Folder name="archetypes">
+            <File name="archetypes\default.md" />
+        </Folder>
+        <Folder name="assets">
+            <Folder name="css">
+                <File name="assets\css\custom.css" />
+            </Folder>
+            <Folder name="fonts">
+                <File name="assets\fonts\organetto-ultraboldext.woff2" />
+            </Folder>
+            <Folder name="images">
+                <File name="assets\images\logo.gif" />
+                <File name="assets\images\logo.png" />
+                <File name="assets\images\logo.psd" />
+            </Folder>
+        </Folder>
+        <Folder name="config">
+            <Folder name="_default">
+                <File name="config\_default\config.toml" />
+                <File name="config\_default\languages.ru.toml" />
+                <File name="config\_default\markup.toml" />
+                <File name="config\_default\menus.ru.toml" />
+                <File name="config\_default\module.toml" />
+                <File name="config\_default\params.toml" />
+            </Folder>
+        </Folder>
+        <Folder name="content">
+            <Folder name="posts">
+                <File name="content\posts\_index.md" />
+            </Folder>
+            <File name="content\_index.md" />
+        </Folder>
+        <Folder name="data" />
+        <Folder name="layouts">
+            <Folder name="partials">
+                <Folder name="home">
+                    <File name="layouts\partials\home\custom.html" />
+                </Folder>
+            </Folder>
+        </Folder>
+        <Folder name="public">
+            <Folder name="categories">
+                <File name="public\categories\index.html" />
+                <File name="public\categories\index.xml" />
+            </Folder>
+            <Folder name="css">
+                <File name="public\css\main.bundle.min.10128862632a943d6288e20870cc85ea5a4251d2702dd297ce195206db203e20e06ac622cce4e1bac1f6a4274b0d4e995090dcc95505c6db84cd593d10305eae.css" />
+            </Folder>
+            <Folder name="js">
+                <File name="public\js\appearance.min.badab316c9287a5a42a843e4eb45da65bb3d194a5a0f5fa4a3e516160e67df0b8c65f4f19a8e146436e29d583699e6cb41d6bbe99e05e1dbaa877763bad9f8e2.js" />
+            </Folder>
+            <Folder name="posts">
+                <File name="public\posts\index.html" />
+                <File name="public\posts\index.xml" />
+            </Folder>
+            <Folder name="tags">
+                <File name="public\tags\index.html" />
+                <File name="public\tags\index.xml" />
+            </Folder>
+            <File name="public\404.html" />
+            <File name="public\android-chrome-192x192.png" />
+            <File name="public\android-chrome-512x512.png" />
+            <File name="public\apple-touch-icon.png" />
+            <File name="public\favicon-16x16.png" />
+            <File name="public\favicon-32x32.png" />
+            <File name="public\favicon.ico" />
+            <File name="public\index.html" />
+            <File name="public\index.json" />
+            <File name="public\index.xml" />
+            <File name="public\robots.txt" />
+            <File name="public\site.webmanifest" />
+            <File name="public\sitemap.xml" />
+        </Folder>
+        <Folder name="resources">
+            <Folder name="_gen">
+                <Folder name="assets" />
+                <Folder name="images">
+                    <File name="resources\_gen\images\logo_hue642ba1f75ca1b8020f1281cfd706e90_16077_288x288_fill_box_smart1_3.png" />
+                </Folder>
+            </Folder>
+        </Folder>
+        <Folder name="static" />
+        <Folder name="themes" />
+        <File name=".hugo_build.lock" />
+        <File name="go.mod" />
+        <File name="go.sum" />
+    </Project>
+</NotepadPlus>

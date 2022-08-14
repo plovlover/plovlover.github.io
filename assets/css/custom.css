@@ -1,0 +1,38 @@
+/*HEADLINES*/
+
+.font-extrabold {
+    font-family: 'Organetto UltraBold SemiExp';
+	src: url('\assets\fonts\organetto-ultraboldext.woff2') format('woff2'),
+	font-weight: normal;
+	font-style: normal;
+	}
+
+.decoration-primary-500 {
+    font-family: 'Organetto UltraBold SemiExp';
+	src: url('\assets\fonts\organetto-ultraboldext.woff2') format('woff2'),
+	font-weight: normal;
+	font-style: normal;
+	}
+
+.text-neutral-500 {
+    font-family: 'Organetto UltraBold SemiExp';
+	src: url('\assets\fonts\organetto-ultraboldext.woff2') format('woff2'),
+	font-weight: normal;
+	font-style: normal;
+	}
+
+/*SYSTEM*/
+.mt-12 {
+    font-family: 'Organetto UltraBold SemiExp';
+	src: url('\assets\fonts\organetto-ultraboldext.woff2') format('woff2'),
+	font-weight: normal;
+	font-style: normal;
+
+/*PARAGRAPH*/
+
+.prose {
+    font-family: 'IBM Plex Sans Text';
+	src: url('\assets\fonts\IBMPlexSans-Text.woff2') format('woff2'),
+	font-weight: normal;
+	font-style: normal;
+	}
