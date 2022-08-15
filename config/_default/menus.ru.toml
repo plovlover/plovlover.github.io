@@ -15,10 +15,10 @@
   url = "https://twitch.tv/plovlover"
   weight = 10
 
-[[main]]
-  name = "Мемопедия"
-  pageRef = "https://wiki.plovlover.uz"
-  weight = 20
+#[[main]]
+#  name = "Мемопедия"
+#  pageRef = "https://wiki.plovlover.uz"
+#  weight = 20
 
 [[main]]
   name = "Писанина"
