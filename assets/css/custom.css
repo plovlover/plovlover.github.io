@@ -1,22 +1,31 @@
 /*HEADLINES*/
 
+@font-face {
+ font-family: 'Organetto UltraBold SemiExp'; 
+ src: url("/fonts/
+organetto-ultraboldext.woff2"); 
+}
+
+@font-face {
+ font-family: 'IBM Plex Sans Text'; 
+ src: url(/fonts/
+IBMPlexSans-Text.woff2); 
+}
+
 .font-extrabold {
     font-family: 'Organetto UltraBold SemiExp';
-	src: url('\fonts\organetto-ultraboldext.woff2') format('woff2'),
 	font-weight: normal;
 	font-style: normal;
 	}
 
 .decoration-primary-500 {
     font-family: 'Organetto UltraBold SemiExp';
-	src: url('\fonts\organetto-ultraboldext.woff2') format('woff2'),
 	font-weight: normal;
 	font-style: normal;
 	}
 
 .text-neutral-500 {
     font-family: 'Organetto UltraBold SemiExp';
-	src: url('\fonts\organetto-ultraboldext.woff2') format('woff2'),
 	font-weight: normal;
 	font-style: normal;
 	}
@@ -24,7 +33,6 @@
 /*SYSTEM*/
 .mt-12 {
     font-family: 'Organetto UltraBold SemiExp';
-	src: url('\fonts\organetto-ultraboldext.woff2') format('woff2'),
 	font-weight: normal;
 	font-style: normal;
 
@@ -32,7 +40,6 @@
 
 .prose {
     font-family: 'IBM Plex Sans Text';
-	src: url('\fonts\IBMPlexSans-Text.woff2') format('woff2'),
 	font-weight: normal;
 	font-style: normal;
 	}
