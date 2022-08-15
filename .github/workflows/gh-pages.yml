@@ -26,7 +26,12 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.TOKEN }}
+          external_repository: plovlover/plovlover.github.io
           publish_dir: ./public
+          #   keep_files: true
+          user_name: plovlover
+          user_email: mec.perfarator@gmail.com
+          publish_branch: master
+          cname: plovlover.uz
