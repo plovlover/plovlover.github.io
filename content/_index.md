@@ -3,10 +3,10 @@ title: "Posts"
 date: 2022-08-11T20:52:56+05:00
 draft: false
 ---
+{{< button href="https://plovlover.uz/donate/" target="_self" >}}
+Подарить деньги
+{{< /button >}}
+
 [![image](logo.png)](https://t.me/plovloverlive)
 
-Основной потоковый канал: Twitch
 
-Когда стримы? В понедельник, пятницу и в воскресенье в районе 19:00 - 20:00 МСК точно, в остальные дни по настроению.
-
-И вообще... что ты здесь делаешь?
