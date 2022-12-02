@@ -7,6 +7,4 @@ draft: false
 Подарить деньги
 {{< /button >}}
 
-[![image](logo.png)](https://t.me/plovloverlive)
-
 
