@@ -17,6 +17,7 @@ Visa / MasterCard (Комиссия 10%)
 Подарить деньги через StreamElements
 {{< /button >}}
 
+<!---
 ---
 <a name="da"></a>
 ### Любая валютная или рублевая (русская или белорусская) карта (DonationAlerts):
@@ -26,6 +27,7 @@ Visa / MasterCard / ЮМани / Сбер / Klarna / PaySafeCard (Комисси
 {{< button href="https://www.donationalerts.com/r/plovlover" target="_blank" >}}
 Подарить деньги через DonationAlerts
 {{< /button >}}
+-->
 
 ---
 <a name="ap"></a>
