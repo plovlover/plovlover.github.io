@@ -19,7 +19,6 @@ Visa / MasterCard (Комиссия 10%)
 Подарить деньги через StreamElements
 {{< /button >}}
 
-<!---
 ---
 <a name="da"></a>
 ### Любая валютная или рублевая (русская или белорусская) карта (DonationAlerts):
@@ -29,8 +28,9 @@ Visa / MasterCard / ЮМани / Сбер / Klarna / PaySafeCard (Комисси
 {{< button href="https://www.donationalerts.com/r/plovlover" target="_blank" >}}
 Подарить деньги через DonationAlerts
 {{< /button >}}
--->
 
+
+<!---
 ---
 <a name="ap"></a>
 ## Прямое пожертвование (лучший способ, только для владельцев узбекистанских сумовых карт):
@@ -40,3 +40,4 @@ UzCard (0,3% комиссия) или HUMO (0% комиссия)
 {{< button href="https://donate.apelsin.uz/pay/plovlover" target="_blank" >}}
 Подарить деньги через Apelsin
 {{< /button >}}
+-->
