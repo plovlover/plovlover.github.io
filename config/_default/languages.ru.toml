@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "тимурмалик"
   #image = "/images/logo.png"
-  headline = "специалист по делам с людьми на компьютерах"
+  headline = "кто я?"
   #bio = "A little bit about you"
   links = [
   #   { email = "mailto:hello@your_domain.com" },
@@ -55,8 +55,8 @@ dateFormat = "2 January 2006"
 { telegram = "https://t.me/plovloverlive" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
-#{ twitch = "https://twitch.tv/plovlover" },
-{ twitter = "https://twitter.com/plovloverlive" },
+{ twitch = "https://twitch.tv/plovlover" },
+# { twitter = "https://twitter.com/plovloverlive" },
   #   { whatsapp = "https://wa.me/phone-number" },
 { youtube = "https://www.youtube.com/channel/UCEScSVFNFtJm3bmu5tO-6Eg" },
 ]
